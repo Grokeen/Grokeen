@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 <div>
+  <a href="mailto:ygreen0516@gmail.com">
+  이메일 보내기
+  </a>
+</div>
+
+<div>
   <a href="https://blog.naver.com/ygreen0516" font-size="40px">
     네이버 블로그
   </a>
