@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 <div>
-  <a href="https://blog.naver.com/ygreen0516" >
-    <img src="https://simpleicons.org/?q=blog/#20C997?"/>
+  <a href="https://blog.naver.com/ygreen0516" font-size="40px">
+    네이버 블로그
   </a>
 </div>
+
 
 
 <!--
