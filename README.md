@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://blog.naver.com/ygreen0516" >
-    <img src="https://img.shields.io/badge/#20C997?"/>
+    <img src="https://simpleicons.org/?q=blog/#20C997?"/>
   </a>
 </div>
 
