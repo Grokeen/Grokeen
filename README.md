@@ -26,7 +26,7 @@
 
 <div>
   <a href="">
-    ㅇdddd
+    ㅇd
   </a>
 </div>
 
