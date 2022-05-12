@@ -32,7 +32,7 @@
 
 <div>
   <a href="">
-    ㅇㅇddddd
+    ㅇㅇdd
   </a>
 </div>
 
