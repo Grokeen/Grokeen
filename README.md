@@ -26,13 +26,13 @@
 
 <div>
   <a href="">
-    ㅇdffddㅓㅏ
+    ㅇdf
   </a>
 </div>
 
 <div>
   <a href="">
-    ㅇㅇㄴㄴㄴdd
+    ㅇㅇㄴ
   </a>
 </div>
 
