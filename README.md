@@ -32,7 +32,7 @@
 
 <div>
   <a href="">
-    3 sdㄹㄹasa
+    3 sd
   </a>
 </div>
 
