@@ -31,9 +31,7 @@ Ddddddh 누노유너 ㅎㅎㅎ 오ㅓ어
 </div>
 
 <div>
-  <a href="">
-sadsssssda dddddd sjdjsjdjs호 ㅊㅇㅇ
-  </a>
+  정보처리기사/빅데이터분석기사/ADSP/SQLD
 </div>
 
 <!--
