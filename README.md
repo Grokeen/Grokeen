@@ -5,31 +5,6 @@
 
 
 
-
-<div>
-  <a href="mailto:ygreen0516@gmail.com">
-  이메일 보내기
-  </a>
-</div>
-
-<div>
-  <a href="https://blog.naver.com/ygreen0516" font-size="40px">
-    네이버 블로그
-  </a>
-</div>
-
-<div>
-  <a href="">
-    ㅇㅇㅇ ㅇㅇㅇㅇ
-  </a>
-</div>
-
-<div>
-  <a href="">ㅏ
-Ddddddh 누노유너 ㅎㅎㅎ 오ㅓ어
-  </a>
-</div>
-
 <div>
   <h5>학력</h5><br>
   수도권 야간대 학점 3.2/4.5 <br>
@@ -73,6 +48,28 @@ Ddddddh 누노유너 ㅎㅎㅎ 오ㅓ어
   파이썬 프로젝트 3<br>
 
 </div>
+
+
+<div>
+  <a href="mailto:ygreen0516@gmail.com">
+  이메일 보내기
+  </a>
+</div>
+
+<div>
+  <a href="https://blog.naver.com/ygreen0516" font-size="40px">
+    네이버 블로그
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
 
 <!--
 **Grokeen/Grokeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
