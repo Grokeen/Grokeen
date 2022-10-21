@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+천사도 두려워 하는 곳에 바보가 달려든다<br>
+개관사정, 끝날 때까지 끝난게 아니다<br>
+
+
 <!-- 깃허브 상태 표시 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grokeen&show_icons=true&theme=radical)
 
