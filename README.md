@@ -8,10 +8,7 @@
 <div>
   <br>
   <h5>연락하기</h5>
-  <a href="mailto:ygreen0516@gmail.com">
-  이메일 보내기
-  </a>
-</div>
+  
 <div>
   <a href="https://blog.naver.com/yg=reen0516" font-size="40px">
     네이버 블로그
@@ -31,20 +28,24 @@
 
 
 <div>
-	<table>
+	<table> <!-- ------이름------ -->
 		<caption><h5>Yongrok Kim</h5></caption>
     <colgroup>
-		<col style="width: 25%">
-      	<col style="width: 25%">
+		<col style="width: 10%">
+      	<col style="width: auto">
 	</colgroup>
     <thead>
       <tr>
-        <th>Korean Name</th>
+        <th>Email</th>
+        <th>Tel.</th>
 			</tr>
     </thead>
     <tbody>
       <tr>
-        <td>김용록</td>
+        <td><a href="mailto:ygreen0516@gmail.com">
+  ygreen0516@gmail.com
+  </a></td>
+  			<td>(+82)010-6417-0516</td>
 			</tr>    
 		<tbody>
 	</table>
@@ -54,13 +55,14 @@
 		<caption>Education</caption>
     <colgroup>
 		<col style="width: 25%">
-      	<col style="width: 25%">
+      	<col style="width: auto">
 	</colgroup>
     <tbody>
       <tr>
         <td>Feb.2016 ~ Feb.2022</td>
         <td>
-          KPU Computer Enginering<br>
+          KPU<br> 
+          Computer Enginering<br>
 					3.2/4.5
 				</td>
 			</tr>    
