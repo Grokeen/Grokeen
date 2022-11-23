@@ -50,7 +50,7 @@
 	</table>
   <br>
 	<br>
-	<table>
+	<table> <!-- ------학력------ -->
 		<caption>Education</caption>
     <colgroup>
 		<col style="width: 25%">
@@ -72,7 +72,7 @@
   
   <br>
 	<br>
-	<table>
+	<table><!-- ------경력------ -->
 		<caption>Work Exprences.</caption>
     <colgroup>
 		<col style="width: 25%">
@@ -80,11 +80,10 @@
 	</colgroup>
     <tbody>
       <tr>
-        <td>Mar.2022<br>
-          Sangam-dong,Seoul,South Korea
+        <td>Mar.2022
 				</td>
         <td>
-        	Programing T#=eam
+        	Develop Team <h5 align="left">Sangam-dong,Seoul,South Korea</h5><br>
 					System Mangement <br>
 				</td>
 			</tr>    
