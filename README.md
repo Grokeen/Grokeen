@@ -1,24 +1,6 @@
-=### Hi there 👋
-
-천사도 두려워 하는 곳에 바보가 달려든다<br>
-개관사정, 끝날 때까지 끝난게 아니다<br>
+Hi there 👋
 
 
-
-<div>
-  <br>
-  <h5>연락하기</h5>
-  
-<div>
-  <a href="https://blog.naver.com/yg=reen0516" font-size="40px">
-    네이버 블로그
-  </a>
-</div>
-<div>
-	<a href="https://grokeen.github.io/">
-    깃허브 블로그
-	</a>
-</div>
 
 
 
@@ -48,7 +30,9 @@
   			<td>(+82)010-6417-0516</td>
 			</tr>
       <tr>
-			 기면증(Narcolepsy)
+        <td>
+			 		기면증(Narcolepsy)
+      	</td>
 			</tr>    
 		<tbody>
 	</table>
@@ -158,6 +142,15 @@
 				</td>
 			</tr>
       <tr>
+        <td>Oct.2022 ~ Present
+				</td>
+        <td>
+        	<a href="https://grokeen.github.io/">
+    깃허브 블로그
+	</a><br>
+				</td>
+			</tr>
+      <tr>
         <td>Oct.2022 ~ Nom.2022
 				</td>
         <td>
@@ -195,6 +188,10 @@
   자바 프로젝트 2<br>
   파이썬 프로젝트 3<br>
 
+
+
+천사도 두려워 하는 곳에 바보가 달려든다<br>
+개관사정, 끝날 때까지 끝난게 아니다<br>
 
 
 
