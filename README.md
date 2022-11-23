@@ -1,17 +1,13 @@
-Hi there 👋
-
-
-
-
 
 <!-- 깃허브 상태 표시 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grokeen&show_icons=true&theme=radical)
 
+<br><br>
 
 
 <div>
 	<table> <!-- ------이름------ -->
-		<caption><h5>Yongrok Kim</h5></caption>
+		<caption><h5>👨🏾‍💻 Yongrok Kim</h5></caption>
     <colgroup>
 		<col style="width: 10%">
       	<col style="width: auto">
@@ -46,7 +42,7 @@ Hi there 👋
 	<br>
 	<br>
 	<table><!-- ------군대------ -->
-		<caption>Militery</caption>
+		<caption>🪖 Militery</caption>
     <colgroup>
 		<col style="width: 25%">
       	<col style="width: auto">
@@ -65,7 +61,7 @@ Hi there 👋
   <br>
 	<br>
 	<table> <!-- ------학력------ -->
-		<caption>Education</caption>
+		<caption>📚 Education</caption>
     <colgroup>
 		<col style="width: 25%">
       	<col style="width: auto">
@@ -85,7 +81,7 @@ Hi there 👋
   <br>
 	<br>
 	<table><!-- ------경력------ -->
-		<caption>Work Exprences.</caption>
+		<caption>💼 Work Exprences.</caption>
     <colgroup>
 		<col style="width: 25%">
       	<col style="width: auto">
@@ -107,7 +103,7 @@ Hi there 👋
   <br>
 	<br>
 	<table><!-- ------경험 및 자격증------ -->
-		<caption>Other Exprences</caption>
+		<caption>📌 Other Exprences</caption>
     <colgroup>
 		<col style="width: 25%">
       	<col style="width: auto">
@@ -230,7 +226,7 @@ Hi there 👋
 
 
   
-
+<ㅠㄱ
 
 천사도 두려워 하는 곳에 바보가 달려든다<br>
 개관사정, 끝날 때까지 끝난게 아니다<br>
