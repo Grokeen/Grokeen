@@ -30,7 +30,7 @@ Hi there 👋
   			<td>(+82)010-6417-0516</td>
 			</tr>
       <tr>
-        <td>
+        <td colspan="2">
 			 		기면증(Narcolepsy)
       	</td>
 			</tr>    
@@ -67,8 +67,8 @@ Hi there 👋
       <tr>
         <td>Feb.2016 ~ Feb.2022</td>
         <td>
-          KPU<br> 
-          Computer Enginering<br>
+          한국산업기술대학교(야간)<br>
+          KPU Computer Enginering<br>
 					3.25/4.5
 				</td>
 			</tr>    
