@@ -49,6 +49,24 @@
 			</tr>    
 		<tbody>
 	</table>
+	<br>
+	<br>
+	<table><!-- ------군대------ -->
+		<caption>Militery</caption>
+    <colgroup>
+		<col style="width: 25%">
+      	<col style="width: auto">
+	</colgroup>
+    <tbody>
+      <tr>
+        <td>Jen.2018 ~ Set.2019
+				</td>
+        <td> 
+					2사단 17연대 만기전역<br>
+				</td>
+			</tr>    
+		<tbody>
+	</table>
 
   <br>
 	<br>
@@ -64,7 +82,7 @@
         <td>
           KPU<br> 
           Computer Enginering<br>
-					3.2/4.5
+					3.25/4.5
 				</td>
 			</tr>    
 		<tbody>
@@ -95,7 +113,7 @@
   <br>
 	<br>
 	<table><!-- ------경험 및 자격증------ -->
-		<caption>Othrer Exprences</caption>
+		<caption>Other Exprences</caption>
     <colgroup>
 		<col style="width: 25%">
       	<col style="width: auto">
@@ -120,6 +138,13 @@
 				</td>
         <td>
         	계절학기 프로그래밍 기초(파이썬) 비교과 수업 조교  <br>
+				</td>
+			</tr>
+      <tr>
+        <td><!-- Mar.2021 -->
+				</td>
+        <td>
+        	정보처리기사 필기 <br>
 				</td>
 			</tr>
       <tr>
@@ -149,20 +174,19 @@
         <td>
         	SQLD<br>
 				</td>
+			</tr>
+      <tr>
+        <td><!-- Jun.2023 -->
+				</td>
+        <td>
+        	빅데이터분석기사 필기<br>
+				</td>
 			</tr>  
 		<tbody>
 	</table>
 </div>
 
 
-
-  <h5>자격증</h5>
-  정보처리기사/빅데이터분석기사<br>
-  
-
-  <h5>군대</h5>
-  만기전역 18년-19년  <br>
-  <br>
 
   <h5>장애</h5>
   기면증(23년 8월 이후 장애등급 신청가능)<br>
