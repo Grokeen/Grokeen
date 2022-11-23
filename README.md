@@ -21,20 +21,15 @@
   </a></td>
   			<td>(+82)010-6417-0516</td>
 			</tr>    
-		<tbody>
-	</table>
-  <br>
-  <table> <!-- ------병과------ -->
-		<colgroup><col style="width: auto">
-	</colgroup>
-    <tbody>
-      <tr>
+      <tr> <!-- ------병과------ -->
         <td colspan="2">
 			 		기면증(Narcolepsy)
       	</td>
 			</tr>    
 		<tbody>
 	</table>
+  <br>
+		
 
 <!-- 깃허브 상태 표시 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grokeen&show_icons=true&theme=radical)
