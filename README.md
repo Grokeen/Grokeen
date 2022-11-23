@@ -28,18 +28,12 @@ Hi there 👋
   ygreen0516@gmail.com
   </a></td>
   			<td>(+82)010-6417-0516</td>
-			</tr>
-      <tr>
-        <td colspan="2">
-			 		기면증(Narcolepsy)
-      	</td>
 			</tr>    
 		<tbody>
 	</table>
   <br>
   <table> <!-- ------병과------ -->
-		<caption><h5>Yongrok Kim</h5></caption>
-    <colgroup><col style="width: auto">
+		<colgroup><col style="width: auto">
 	</colgroup>
     <tbody>
       <tr>
