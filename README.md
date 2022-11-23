@@ -10,7 +10,31 @@
 
 
 <div>
-
+	<table>
+		<caption>It's me</caption>
+    <colgroup>
+			<col style="width: 25%">
+      <col style="width: 25%">
+      <col style="width: 25%">
+      <col style="width: 25%">
+		</colgroup>
+    <thead>
+      <tr>
+        <th>용록</th>
+        <th>용록2</th>
+        <th>용록3</th>
+        <th>용록4</th>
+			</tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+			</tr>
+    <tbody>
+	</table>
   <h5>학력</h5>
   학점 3.2/4.5 <br>
   
