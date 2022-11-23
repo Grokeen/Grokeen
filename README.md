@@ -36,6 +36,19 @@ Hi there 👋
 			</tr>    
 		<tbody>
 	</table>
+  <br>
+  <table> <!-- ------병과------ -->
+		<caption><h5>Yongrok Kim</h5></caption>
+    <colgroup><col style="width: auto">
+	</colgroup>
+    <tbody>
+      <tr>
+        <td colspan="2">
+			 		기면증(Narcolepsy)
+      	</td>
+			</tr>    
+		<tbody>
+	</table>
 	<br>
 	<br>
 	<table><!-- ------군대------ -->
