@@ -56,16 +56,13 @@
 		<col style="width: 25%">
       	<col style="width: 25%">
 	</colgroup>
-    <thead>
-      <tr>
-        <th>Korean Name</th>
-        <th>English</th>
-			</tr>
-    </thead>
     <tbody>
       <tr>
-        <td>김용록</td>
-        <td>Liam</td>
+        <td>Feb.2016 ~ Feb.2022</td>
+        <td>
+          KPU Computer Enginering<br>
+					3.2/4.5
+				</td>
 			</tr>    
 		<tbody>
 	</table>
@@ -76,15 +73,15 @@
 		<caption>Work Exprences.</caption>
     <colgroup>
 		<col style="width: 25%">
-      	<col style="width: 75%">
+      	<col style="width: auto">
 	</colgroup>
     <tbody>
       <tr>
-        <td>Mar.2022
+        <td>Mar.2022 ~ Present
 				</td>
         <td>
-        	Develop Team <h5 align="left">Sangam-dong,Seoul,South Korea</h5><br>
-					System Mangement <br>
+        	Sangam-dong,Seoul,South Korea<br>
+					Develop Team/System Mangement <br>
 				</td>
 			</tr>    
 		<tbody>
