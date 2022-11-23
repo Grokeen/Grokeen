@@ -71,7 +71,7 @@
   </a>
 </div>
 <div>
-	<a href="https://www.notion.so/22-11-23-8e18cae035fe4cd1a8197adb3e396a1d#5cd4c88ea8804d4da969bfb196476378">
+	<a href="https://grokeen.github.io/">
     깃허브 블로그
 	</a>
 </div>
