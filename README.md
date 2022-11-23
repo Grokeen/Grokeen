@@ -50,8 +50,6 @@
 	</table>
   <br>
 	<br>
-
-
 	<table>
 		<caption>Education</caption>
     <colgroup>
