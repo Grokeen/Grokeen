@@ -4,6 +4,27 @@
 개관사정, 끝날 때까지 끝난게 아니다<br>
 
 
+
+<div>
+  <br>
+  <h5>연락하기</h5>
+  <a href="mailto:ygreen0516@gmail.com">
+  이메일 보내기
+  </a>
+</div>
+<div>
+  <a href="https://blog.naver.com/yg=reen0516" font-size="40px">
+    네이버 블로그
+  </a>
+</div>
+<div>
+	<a href="https://grokeen.github.io/">
+    깃허브 블로그
+	</a>
+</div>
+
+
+
 <!-- 깃허브 상태 표시 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grokeen&show_icons=true&theme=radical)
 
@@ -13,28 +34,23 @@
 	<table>
 		<caption>It's me</caption>
     <colgroup>
-			<col style="width: 25%">
-      <col style="width: 25%">
-      <col style="width: 25%">
-      <col style="width: 25%">
-		</colgroup>
+		<col style="width: 25%">
+      	<col style="width: 25%">
+	</colgroup>
     <thead>
       <tr>
-        <th>용록</th>
-        <th>용록2</th>
-        <th>용록3</th>
-        <th>용록4</th>
+        <th>Name</th>
+        <th>English</th>
 			</tr>
     </thead>
     <tbody>
       <tr>
         <td>1</td>
         <td>2</td>
-        <td>3</td>
-        <td>4</td>
-			</tr>
-    <tbody>
+			</tr>    
+		<tbody>
 	</table>
+</div>
   <h5>학력</h5>
   학점 3.2/4.5 <br>
   
@@ -82,33 +98,49 @@
 </div>
 
 
+
+
+
+
+
+
+<!--
+
 <div>
-  <br>
-  <h5>연락하기</h5>
-  <a href="mailto:ygreen0516@gmail.com">
-  이메일 보내기
-  </a>
+	<table>
+		<caption>It's me</caption>
+    <colgroup>
+			<col style="width: 25%">
+      <col style="width: 25%">
+      <col style="width: 25%">
+      <col style="width: 25%">
+		</colgroup>
+    <thead>
+      <tr>
+        <th>이름</th>
+        <th>한글</th>
+        <th>영문</th>
+        <th>용록4</th>
+			</tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+			</tr>
+        <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+			</tr>
+    <tbody>
+	</table>
 </div>
-<div>
-  <a href="https://blog.naver.com/yg=reen0516" font-size="40px">
-    네이버 블로그
-  </a>
-</div>
-<div>
-	<a href="https://grokeen.github.io/">
-    깃허브 블로그
-	</a>
-</div>
 
-
-
-
-
-
-
-
-
-
+-->
 <!--
 **Grokeen/Grokeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
