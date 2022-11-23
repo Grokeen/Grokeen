@@ -32,25 +32,50 @@
 
 <div>
 	<table>
-		<caption>It's me</caption>
+		<caption><h5>Yongrok Kim</h5></caption>
     <colgroup>
 		<col style="width: 25%">
       	<col style="width: 25%">
 	</colgroup>
     <thead>
       <tr>
-        <th>Name</th>
+        <th>Korean Name</th>
+			</tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>김용록</td>
+			</tr>    
+		<tbody>
+	</table>
+  <br>
+	<br>
+
+
+	<table>
+		<caption>Education</caption>
+    <colgroup>
+		<col style="width: 25%">
+      	<col style="width: 25%">
+	</colgroup>
+    <thead>
+      <tr>
+        <th>Korean Name</th>
         <th>English</th>
 			</tr>
     </thead>
     <tbody>
       <tr>
-        <td>1</td>
-        <td>2</td>
+        <td>김용록</td>
+        <td>Liam</td>
 			</tr>    
 		<tbody>
 	</table>
 </div>
+
+
+
+
   <h5>학력</h5>
   학점 3.2/4.5 <br>
   
