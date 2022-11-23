@@ -46,6 +46,9 @@
   ygreen0516@gmail.com
   </a></td>
   			<td>(+82)010-6417-0516</td>
+			</tr>
+      <tr>
+			 기면증(Narcolepsy)
 			</tr>    
 		<tbody>
 	</table>
@@ -186,11 +189,6 @@
 	</table>
 </div>
 
-
-
-  <h5>장애</h5>
-  기면증(23년 8월 이후 장애등급 신청가능)<br>
-  <br>
 
 
   <h5>프로젝트 경험</h5>
