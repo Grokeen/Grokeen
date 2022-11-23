@@ -1,4 +1,4 @@
-### Hi there 👋
+=### Hi there 👋
 
 천사도 두려워 하는 곳에 바보가 달려든다<br>
 개관사정, 끝날 때까지 끝난게 아니다<br>
@@ -66,6 +66,27 @@
       <tr>
         <td>김용록</td>
         <td>Liam</td>
+			</tr>    
+		<tbody>
+	</table>
+  
+  <br>
+	<br>
+	<table>
+		<caption>Work Exprences.</caption>
+    <colgroup>
+		<col style="width: 25%">
+      	<col style="width: 75%">
+	</colgroup>
+    <tbody>
+      <tr>
+        <td>Mar.2022<br>
+          Sangam-dong,Seoul,South Korea
+				</td>
+        <td>
+        	Programing T#=eam
+					System Mangement <br>
+				</td>
 			</tr>    
 		<tbody>
 	</table>
