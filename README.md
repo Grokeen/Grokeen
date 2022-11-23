@@ -128,6 +128,13 @@ Hi there 👋
 				</td>
 			</tr>
       <tr>
+        <td><!-- Oct.2020 ~ Rem.2021 -->
+				</td>
+        <td>
+        	<a href="">졸업작품</a><br>
+				</td>
+			</tr>
+      <tr>
         <td>Jen.2021 ~ Aug.2021
 				</td>
         <td>
@@ -149,6 +156,30 @@ Hi there 👋
 				</td>
 			</tr>
       <tr>
+        <td><!-- Jun.2021 ~ Nom.2021 -->
+				</td>
+        <td>
+        	<a href="">Spring을 이용한 음식점 예약사이트 
+					</a><br>
+				</td>
+			</tr>
+      <tr>
+        <td><!-- Jun.2021 ~ Nom.2021 -->
+				</td>
+        <td>
+          <a href="">Django를 이용한 이력서 단어 추천
+					</a><br>
+				</td>
+			</tr>
+      <tr>
+        <td><!-- Jun.2021 ~ Nom.2021 -->
+				</td>
+        <td>
+          <a href="">Spring을 이용한 영향능력 평가? SALT
+					</a><br>
+				</td>
+			</tr>
+      <tr>
         <td>Oct.2022 ~ Present
 				</td>
         <td>
@@ -162,6 +193,13 @@ Hi there 👋
 				</td>
         <td>
         	네이버 커넥티드 데이터 사이언스 교육 4주 <br>
+				</td>
+			</tr>
+      <tr>
+        <td><!-- Oct.2022 ~ Nom.2022 -->
+				</td>
+        <td>
+        	<a href="">데이터 사이언스 프로젝트</a> <br>
 				</td>
 			</tr>
       <tr>
@@ -191,10 +229,7 @@ Hi there 👋
 
 
 
-  <h5>프로젝트 경험</h5>
-  자바 프로젝트 2<br>
-  파이썬 프로젝트 3<br>
-
+  
 
 
 천사도 두려워 하는 곳에 바보가 달려든다<br>
