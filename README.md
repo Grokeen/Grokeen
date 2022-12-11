@@ -21,7 +21,7 @@
 			</tr>    
       <tr> <!-- ------병과------ -->
         <td colspan="2">
-			 		 기면증(Narcolepsy)이 있습니다.
+			 		<!-- 기면증(Narcolepsy)이 있습니다. -->
       	</td>
 			</tr>    
 		<tbody>
