@@ -16,7 +16,7 @@
       <tr>
         <td><a href="mailto:ygreen0516@gmail.com">
   ygreen0516@gmail.com
-  </a></td>
+  </a></td> 
   			<td>(+82)010-6417-0516</td>
 			</tr>    
       <tr> <!-- ------병과------ -->
