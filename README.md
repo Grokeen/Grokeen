@@ -32,7 +32,7 @@
 <!-- 깃허브 상태 표시 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grokeen&show_icons=true&theme=radical)
 
-	dd
+	
 <br>
 	<br>
 
