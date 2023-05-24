@@ -98,129 +98,7 @@
 	
 	
 	
-	
-	
-  <br>
-	<br>
-	<table><!-- ------경험 및 자격증------ -->
-		<caption>📌 Other Exprences</caption>
-    <colgroup>
-		<col style="width: 25%">
-      	<col style="width: auto">
-	</colgroup>
-    <tbody>
-      <tr>
-        <td>Oct.2019 ~ Jen.2020
-				</td>
-        <td>
-        	필리핀 어학연수 3개월 <br>
-				</td>
-			</tr>
-			<tr>
-        <td>Oct.2020 ~ Rem.2021
-				</td>
-        <td>
-        	사물인터넷 수업 조교 <br>
-				</td>
-			</tr>
-      <tr>
-        <td><!-- Oct.2020 ~ Rem.2021 -->
-				</td>
-        <td>
-        	<a href="">졸업작품</a><br>
-				</td>
-			</tr>
-      <tr>
-        <td>Jen.2021 ~ Aug.2021
-				</td>
-        <td>
-        	계절학기 프로그래밍 기초(파이썬) 비교과 수업 조교   <br>
-				</td>
-			</tr>
-      
-      <tr>
-        <td>Jun.2021 ~ Nom.2021
-				</td>
-        <td>
-        	데이터 처리관련 국비지원 교육 5개월 <br>
-				</td>
-			</tr>
-      <tr>
-        <td><!-- Jun.2021 ~ Nom.2021 -->
-				</td>
-        <td>
-        	<a href="">Spring을 이용한 음식점 예약사이트 
-					</a><br>
-				</td>
-			</tr>
-      <tr>
-        <td><!-- Jun.2021 ~ Nom.2021 -->
-				</td>
-        <td>
-          <a href="">Django를 이용한 이력서 단어 추천
-					</a><br>
-				</td>
-			</tr>
-      <tr>
-        <td><!-- Jun.2021 ~ Nom.2021 -->
-				</td>
-        <td>
-          <a href="">Spring을 이용한 영향능력 평가? SALT
-					</a><br>
-				</td>
-			</tr>
-      <tr>
-        <td>Oct.2022 ~ Present
-				</td>
-        <td>
-        	<a href="https://grokeen.github.io/">
-    깃허브 블로그
-	</a><br>
-				</td>
-			</tr>
-      <tr>
-        <td>Oct.2022 ~ Nom.2022
-				</td>
-        <td>
-        	네이버 커넥티드 데이터 사이언스 교육 4주 <br>
-				</td>
-			</tr>
-      <tr>
-        <td><!-- Oct.2022 ~ Nom.2022 -->
-				</td>
-        <td>
-        	<a href="">데이터 사이언스 프로젝트</a> <br>
-				</td>
-			</tr>
-      <tr>
-        <td>25.Nom.2022
-				</td>
-        <td>
-        	ADSP<br>
-				</td>
-			</tr>
-      <tr>
-        <td>2.Dec.2022
-				</td>
-        <td>
-        	SQLD<br>
-				</td>
-			</tr>
-      <tr>
-        <td><!-- Jun.2023 -->
-				</td>
-        <td>
-        	빅데이터분석기사 필기<br>
-				</td>
-			</tr>  
-	    
-	    <tr>
-        <td><!-- Mar.2021 -->
-				</td>
-        <td>
-        	정보처리기사 필기 <br>
-				</td>
-			</tr>
+
 		</tbody>
 	</table>
 </div>
@@ -228,7 +106,6 @@
 
 
   
-<ㅠㄱ
 
 천사도 두려워 하는 곳에 바보가 달려든다<br>
 개관사정, 끝날 때까지 끝난게 아니다<br>
