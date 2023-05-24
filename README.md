@@ -90,7 +90,7 @@
 					Develop Team/System Mangement <br>
 				</td>
 			</tr>    
-		<tbody>
+		</tbody>
 	
 
 	
@@ -221,7 +221,7 @@
         	정보처리기사 필기 <br>
 				</td>
 			</tr>
-		<tbody>
+		</tbody>
 	</table>
 </div>
 
