@@ -80,6 +80,7 @@
 		<col style="width: 25%">
       	<col style="width: auto">
 	</colgroup>
+		
     <tbody>
       <tr>
         <td>Mar.2022 ~ Present
@@ -90,10 +91,15 @@
 				</td>
 			</tr>    
 		<tbody>
-	</table>
+	
 
 	
   
+	
+	
+	
+	
+	
   <br>
 	<br>
 	<table><!-- ------경험 및 자격증------ -->
