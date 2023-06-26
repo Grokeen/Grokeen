@@ -39,7 +39,7 @@
 
 
   
-<a href="Grokeen.github.io">Blog</a>
+<a href="https://grokeen.github.io">Blog</a><br>
 천사도 두려워 하는 곳에 바보가 달려든다<br>
 개관사정, 끝날 때까지 끝난게 아니다<br>
 
