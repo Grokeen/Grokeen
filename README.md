@@ -1,7 +1,7 @@
 
 <div>
 	<table> <!-- ------이름------ -->
-		<caption><h5>👨🏾‍💻 Yongrok Kim</h5></caption>
+		<caption><!-- <h5>👨🏾‍💻 Yongrok Kim</h5>--></caption>
     <colgroup>
 		<col style="width: 10%">
       	<col style="width: auto">
