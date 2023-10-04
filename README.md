@@ -1,6 +1,6 @@
 
 <div>
-	<table> <!-- ------이름------ -->
+	<table> <!-- ------이름------ --> 
 		<caption><!-- <h5>👨🏾‍💻 Yongrok Kim</h5>--></caption>
     <colgroup>
 		<col style="width: 10%">
