@@ -52,7 +52,8 @@
 # 프로젝트
 - 🏀 온라인 포트폴리오 웹사이트 (2023 - 현재)
   - Github를 활용해 개인 프로젝트를 정리하기 위해 제작한 온라인 포트폴리오 웹사이트
-  - ㅇ [방문하기]("https://grokeen.github.io)
+  
+  [방문하기]("https://grokeen.github.io)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grokeen&show_icons=true&theme=radical)<!-- 깃허브 상태 표시 -->
 
