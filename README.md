@@ -121,7 +121,33 @@
 - ⚾️ 2022.11.25 ADSP 자격증 취득 (한국데이터산업진흥원)
 - ⚾️ 2023.09.01 정보처리기사 자격증 취득 (한국산업인력공단)
 
+****
 
+# 사용가능 언어
+
+<img src="/html.jpeg" style="height:40px">
+<img src="/git.jpeg" style="height:80px">
+<img src="/Javascript.jpeg" style="height:70px">
+<img src="/markdown.jpeg" style="height:40px">
+<img src="/mysql.jpeg" style="height:40px">
+
+
+<img src="/css.png" style="height:40px">
+<img src="/django.png" style="height:50px">
+
+<img src="/JAVA.png" style="height:100px">
+
+<img src="/Jquery.png" style="height:60px">
+
+<img src="/oracle.png" style="height:70px">
+
+<img src="/python.png" style="height:100px">
+<img src="/Spring.png" style="height:70px">
+<img src="/svn.png" style="height:40px">
+<img src="/xml.png" style="height:30px">
+
+
+****
 
 <!--
 **Grokeen/Grokeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
