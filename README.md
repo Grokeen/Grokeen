@@ -22,7 +22,7 @@
 
 # 경력
 
-<img src="/metanetdigital.jpeg" style="height:20px">
+<img src="/metanetdigital.jpeg" style="height:100px">
 
 - ⚽️ 2022.03.17 ~ 2023.03.17 메타넷 디지털(주) 위택스 개발팀
   - 프론트엔드 개발자
