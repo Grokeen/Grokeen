@@ -125,7 +125,7 @@
 
 ****
 
-# 사용가능 언어
+# Skill
 
 <img src="/JAVA.png" style="height:160px"> <img src="/Javascript.jpeg" style="height:100px"> <img src="/python.png" style="height:160px"> <img src="/CL.png" style="height:70px"> <img src="/Jquery.png" style="height:120px">
 
