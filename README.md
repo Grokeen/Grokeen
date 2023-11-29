@@ -1,5 +1,7 @@
 
+[ENGLISH](/2023-11-29-README.md)
 
+****
 
 <!-- 깃허브 메인 README.md -->
 
@@ -188,7 +190,7 @@
 
 </td>
 <td>
-<img src="/notion.png" style="height:100px"> <img src="/slack.jpeg" style="height:120px">
+<img src="/notion.png" style="height:100px"> <img src="/slack.png" style="height:120px">
 
 
 </td>
