@@ -133,68 +133,71 @@
 # Skill
 
 <table>
-<tr>
-<th> 
-
-## Language 
-</th>
-<th> 
-
-## Forentend
-</th>
-<th> 
-
-## Backend </th>
-<th> 
-
-## Database
- </th>
-<th> 
-
-## Version Control </th>
-<th> 
-
-## Commuication
- </th>
-</tr>
-<tr>
-<td>
-
-
-<img src="/JAVA.png" style="height:160px">  <img src="/python.png" style="height:160px"> <img src="/CL.png" style="height:70px"> 
-
-</td>
-<td>
-
-<img src="/Javascript.jpeg" style="height:100px">
-<img src="/Jquery.png" style="height:120px">
-<img src="/markdown.jpeg" style="height:130px"> <img src="/xml.png" style="height:100px"> <img src="/html.jpeg" style="height:140px"> <img src="/css.png" style="height:100px">
-
-</td>
-<td>
-
-
-<img src="/Spring.png" style="height:150px"> <img src="/django.png" style="height:130px">
-
-</td>
-<td>
-
-
-<img src="/oracle.png" style="height:100px"> <img src="/mysql.jpeg" style="height:70px"> 
-
-</td>
-<td>
-
-
-<img src="/svn.png" style="height:100px"> <img src="/git.jpeg" style="height:120px">
-
-</td>
-<td>
-<img src="/notion.png" style="height:100px"> <img src="/slack.png" style="height:120px">
-
-
-</td>
-
+    <colgroup>
+       <col span="1" style="width: 33%;">
+       <col span="1" style="width: 33%;">
+       <col span="1" style="width: 33%;">
+    </colgroup>
+    <tr>
+        <th> 
+            Language
+        </th>
+        <th> 
+            Forentend
+        </th>
+        <th> 
+            Database
+        </th>
+    </tr>
+    <tr><!-- 내용 -->
+        <td rowspan="1" bgcolor="ffffff"><!-- 컬럼1 시작 -->
+            <img src="/JAVA.png" style="height:100px"> <br>
+            <img src="/python.png" style="height:100px"> <br>
+            <img src="/CL.png" style="height:100px"> <br>
+        </td><!-- 컬럼1 끝 -->      
+        <td rowspan="5" bgcolor="ffffff"><!-- 컬럼2 시작 -->
+            <img src="/Javascript.jpeg" style="height:100px"> <br>
+            <img src="/Jquery.png" style="height:100px"> <br>
+            <img src="/markdown.jpeg" style="height:100px"> <br>
+            <img src="/xml.png" style="height:100px"> <br>
+            <img src="/html.jpeg" style="height:140px"> <br>
+            <img src="/css.png" style="height:100px"> <br>
+        </td><!-- 컬럼2 끝 -->
+        <td bgcolor="ffffff"><!-- 컬럼3 시작 -->
+            <img src="/oracle.png" style="height:100px"> <br>
+            <img src="/mysql.jpeg" style="height:100px"> <br>
+        </td>
+    </tr><!-- 내용 끝-->
+    <tr>
+        <th> 
+            Backend
+        </th>
+        <th> 
+            Commuication
+         </th>
+        </tr>
+        <tr>
+        <td rowspan="3" bgcolor="ffffff">
+            <img src="/Spring.png" style="height:100px"> <br>
+            <img src="/django.png" style="height:100px"> <br>
+        </td>
+        <td bgcolor="ffffff">
+            <img src="/notion.png" style="height:100px"> <br>
+            <img src="/slack.png" style="height:100px"> <br>
+        </td>
+    </tr>
+    <tr>
+        <th> 
+            Version Control
+        </th>
+    </tr>
+    <tr>
+        <td bgcolor="ffffff">
+            <img src="/svn.png" style="height:100px"> <br>
+            <img src="/git.jpeg" style="height:100px"> <br>
+        </td>
+    </tr>
+</table>
 
 ****
 
