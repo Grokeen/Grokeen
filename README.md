@@ -130,15 +130,69 @@
 
 # Skill
 
-<img src="/JAVA.png" style="height:160px"> <img src="/Javascript.jpeg" style="height:100px"> <img src="/python.png" style="height:160px"> <img src="/CL.png" style="height:70px"> <img src="/Jquery.png" style="height:120px">
+<table>
+<tr>
+<th> 
 
-<img src="/oracle.png" style="height:100px"> <img src="/mysql.jpeg" style="height:70px">
+## Language 
+</th>
+<th> 
 
+## Forentend
+</th>
+<th> 
+
+## Backend </th>
+<th> 
+
+## Database
+ </th>
+<th> 
+
+## Version Control </th>
+<th> 
+
+## Commuication
+ </th>
+</tr>
+<tr>
+<td>
+
+
+<img src="/JAVA.png" style="height:160px">  <img src="/python.png" style="height:160px"> <img src="/CL.png" style="height:70px"> 
+
+</td>
+<td>
+
+<img src="/Javascript.jpeg" style="height:100px">
+<img src="/Jquery.png" style="height:120px">
 <img src="/markdown.jpeg" style="height:130px"> <img src="/xml.png" style="height:100px"> <img src="/html.jpeg" style="height:140px"> <img src="/css.png" style="height:100px">
+
+</td>
+<td>
+
 
 <img src="/Spring.png" style="height:150px"> <img src="/django.png" style="height:130px">
 
+</td>
+<td>
+
+
+<img src="/oracle.png" style="height:100px"> <img src="/mysql.jpeg" style="height:70px"> 
+
+</td>
+<td>
+
+
 <img src="/svn.png" style="height:100px"> <img src="/git.jpeg" style="height:120px">
+
+</td>
+<td>
+<img src="/notion.png" style="height:100px"> <img src="/slack.jpeg" style="height:120px">
+
+
+</td>
+
 
 ****
 
