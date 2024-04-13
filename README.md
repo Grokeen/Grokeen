@@ -168,6 +168,8 @@
         <td rowspan="3" bgcolor="ffffff">
             <img src="/Spring.png" style="height:100px"> <br>
             <img src="/django.png" style="height:100px"> <br>
+            <img src="/maven.png" style="height:100px"> <br>
+            <img src="/gradle.png" style="height:100px"> <br>
         </td>
         <td bgcolor="ffffff">
             <img src="/notion.png" style="height:100px"> <br>
