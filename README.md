@@ -141,9 +141,12 @@
             <img src="/CL.png" style="height:100px"> <br>
         </td><!-- 컬럼1 끝 -->      
         <td rowspan="5" bgcolor="ffffff"><!-- 컬럼2 시작 -->
+            <img src="/react.jpg" style="height:100px"> <br>
             <img src="/Javascript.jpeg" style="height:100px"> <br>
             <img src="/Jquery.png" style="height:100px"> <br>
+            <img src="/jstl.jpg" style="height:100px"> <br>
             <img src="/markdown.jpeg" style="height:100px"> <br>
+            <img src="/ajax.jpg" style="height:100px"> <br>
             <img src="/xml.png" style="height:100px"> <br>
             <img src="/html.jpeg" style="height:140px"> <br>
             <img src="/css.png" style="height:100px"> <br>
