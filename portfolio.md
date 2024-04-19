@@ -55,7 +55,7 @@
 - 🏀 2023.05.27 ~ 2023.06.03 Chat GPT를 활용한 영어 회화 기능 토이 프로젝트(기여도 100%, 담당 업무 : **Open AI API 활용**)
 - 🏀 2023.04.24 ~ 2023.04.28 라즈베리파이를 이용한 OMV 개인 NAS 서버 구축
 <!-- - ⚾️ 2023.04.21 SQLD 자격증 취득 (한국데이터산업진흥원) -->
-- 🏀 2023.03.24 ~ 2023.03.31 - 현재 Github 블로그를 이용한 온라인 포트폴리오 웹사이트[[방문하기]("https://grokeen.github.io)](기여도 100%, 담당 업무 : **Git, Markdown, Liquid 문법과 YAML Front Matter 활용**)
+- 🏀 2023.03.24 ~ 2023.03.31 - 현재 Github 블로그를 이용한 온라인 포트폴리오 웹사이트[[방문하기](https://github.com/Grokeen/Grokeen.github.io/blob/main/README.md)](기여도 100%, 담당 업무 : **Git, Markdown, Liquid 문법과 YAML Front Matter 활용**)
 
 - ⚾️ 2022.11.25 ADSP 자격증 취득 (한국데이터산업진흥원)
 - ⚾️ 2022.10.24 ~ 2023.02.23 네이버커넥트, 부스트코스 코칭스터디 8~9기 수료
@@ -89,8 +89,6 @@
   
 - ⚾️ 2019.10.27 ~ 2020.01.18 필리핀 바기오 어학연수
 - ⚾️ 2017.11.24 제12회 교내 KPU 소프트웨어 경진 대회 입상, 한국공학대학교(한국산업기술대학교)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grokeen&show_icons=true&theme=radical)<!-- 깃허브 상태 표시 -->
 
 ****
 
