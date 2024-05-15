@@ -34,16 +34,20 @@
 
 ![](https://komarev.com/ghpvc/?username=Grokeen&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Grokeen?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/groke_en)
+
+
+
+<!-- 깃허브 커밋 -->
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/groke_en) -->
+
+
+----
+<!-- 백준 알고리즘 레벨 -->
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygreen0516)](https://solved.ac/ygreen0516) -->
 
 
 ----
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygreen0516)](https://solved.ac/ygreen0516)
 
 
-----
-
-
-
-<audio src="mp3/아이스크림_mc몽.mp3" controls autoplay></audio>
+<audio src="/mp3/아이스크림_mc몽.mp3" controls autoplay></audio>
