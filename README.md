@@ -46,7 +46,7 @@
 
 
 
-<audio src="/아이스크림_mc몽.mp3" controls autoplay></audio>
+<audio src="아이스크림_mc몽.mp3" controls autoplay></audio>
 
-
+아이스크림_mc몽.mp3
 ----
