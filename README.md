@@ -8,7 +8,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Grokeen&show_icons=true&locale=en&layout=compact" alt="Grokeen" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grokeen&show_icons=true&theme=radical)<!-- 깃허브 상태 표시 -->
+
+<!-- 깃허브 상태 -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grokeen&show_icons=true&theme=radical) -->
 
 <br/>
 
@@ -34,11 +36,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Grokeen&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Grokeen?style=social)
-
-
-
-<!-- 깃허브 커밋 -->
-<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/groke_en) -->
+![Twitter Follow](https://img.shields.io/twitter/follow/groke_en)
 
 
 ----
@@ -46,8 +44,9 @@
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygreen0516)](https://solved.ac/ygreen0516) -->
 
 
+
+
+<audio src="/아이스크림_mc몽.mp3" controls autoplay></audio>
+
+
 ----
-
-
-
-<audio src="/mp3/아이스크림_mc몽.mp3" controls autoplay></audio>
