@@ -17,9 +17,6 @@
 <!-- 백준 알고리즘 레벨 -->
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygreen0516)](https://solved.ac/ygreen0516) -->
 
-
-<!DOCTYPE html>
-<html lang="ko">
 <head>
     <link rel="stylesheet" href="cyworld.css">
     <style>
@@ -193,5 +190,5 @@ body {
         </div>
     </div>
 </body>
-</html>
+
 
