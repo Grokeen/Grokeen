@@ -18,7 +18,6 @@
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygreen0516)](https://solved.ac/ygreen0516) -->
 
 <head>
-    <link rel="stylesheet" href="cyworld.css">
     <style>
 body {
     background-color: #e0f7fa;
