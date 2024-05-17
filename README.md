@@ -17,7 +17,7 @@
 <!-- 백준 알고리즘 레벨 -->
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygreen0516)](https://solved.ac/ygreen0516) -->
 
-<style>
+<!-- <style>
 .menu ul:hover {
     transform: scale(1.1);
     color: #fff;
@@ -28,7 +28,7 @@
                 0px 410px 164px 0px rgba(0, 0, 0, 0.01), 
                 0px 640px 179px 0px rgba(0, 0, 0, 0.00);
 }
-</style>
+</style> -->
 <div style="background-color: #b4d1da;
     border-radius: 9px;
     border: 1px solid #738186;
