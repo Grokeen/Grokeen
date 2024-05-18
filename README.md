@@ -22,4 +22,4 @@
 
 [![Click me](doctorwho.gif)](https://grokeen.github.io/)
 
-← 사진을 <span style="color:red"> **클릭** </span>하면 화면이 이동됩니다.
+↑ 사진을 <span style="color:red"> **클릭** </span>하면 화면이 이동됩니다. ↑
