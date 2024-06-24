@@ -1,0 +1,83 @@
+
+<!DOCTYPE HTML>
+<html lang="ko-KR">
+<head>
+    <meta charset="UTF-8">
+	<link rel="apple-touch-icon-precomposed" href="/pacman.jpg">
+    <link rel="stylesheet" href="cyworld.css" type="text/css">
+    <!-- <link rel="stylesheet" href="/css/audio.css" type="text/css"> -->
+</head>
+<body>
+    <!-- 202405191253 김용록 오디오 css 주석 -->
+    <!-- <div class="player">
+        <div class="control">
+            <i class="fas fa-play player__play"></i>
+        </div>
+        <div class="player__info">
+            처음 뵙겠습니다(with 휘성)_지나
+            <div class="player__bar">
+                <div class="player__progress"></div>
+            </div>
+        </div>
+        <div class="player__current">0:00</div>
+    </div>
+    <script type="text/javascript" src="/js/audioscript.js"></script>
+     -->
+    <!--  -->
+    <div class="container">
+    <audio class="audioplayer" controls autoplay=1 allow="autoplay">
+        <source src="처음 뵙겠습니다(with 휘성)_지나.mp3" type="audio/mpeg">
+    </audio>
+        <div class="containerdetted">
+            <div class="containermain">
+                <!--  -->
+                <div class="content">
+                    <div class="main">
+                        <div>
+                            <img src="starlight.gif" alt="eff">
+                            </img>
+                        </div>
+                        <div class="mini-room">
+                            <img src="cyworld.jpeg" alt="Mini Room">
+                            </img>
+                        </div>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="sidebar">
+                    <div class="menu">
+                        <ul class="mainmenu">
+                            <li><a href="https://github.com/Grokeen">홈</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="/url.html/homeindex/index.html">미니룸</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="mailto:ygreen0516@gmail.com">일촌평</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="#">프로젝트</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--  -->
+                <div class="plus">
+                    <div class="plusimg">
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grokeen&show_icons=true&locale=en&layout=compact" alt="Grokeen" style="width:30%"/>
+                    </div>
+                    <div class="plustext">
+                        🖥️ Frontend : React<br/>
+                        🔌 Backend : Spring, Django
+                    </div>
+                    <div class="plusinfo">
+                        <img src="https://img.shields.io/github/followers/Grokeen?style=social" style="background-color: white"/>
+                        <img src="https://img.shields.io/twitter/follow/groke_en"/>
+                        <img src="https://komarev.com/ghpvc/?username=Grokeen&style=flat-square"/>
+                    </div>
+                </div>
+                <!--  -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>
